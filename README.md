@@ -27,7 +27,7 @@ research-ingest/
 
 ## Maintenance
 
-- Papers are automatically added by little nix (AI assistant)
+- Papers are automatically added by quack quack (AI assistant)
 - Each paper gets its own markdown file
 - Papers are tracked to avoid duplicates
 - Version history shows when each paper was added
