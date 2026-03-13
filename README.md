@@ -38,5 +38,5 @@ Papers are sourced from: https://arxiv.org/list/cs.RO/recent
 
 ---
 
-Maintained by: little nix
+Maintained by: quack quack
 Created: 2026-03-14
